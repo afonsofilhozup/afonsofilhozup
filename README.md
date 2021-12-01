@@ -38,3 +38,4 @@
 [![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
 [![Discourse posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
 [![Discourse likes](https://img.shields.io/discourse/likes?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
+<img src='badges/cloudsec.png' alt='badges/cloudsec.png' width='160px' />
