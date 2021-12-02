@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofilhozup&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/afonsofilhozup)
 
 [![Desenvolvimento Seguro](badges/desenvolvimento_seguro.png)](https://about.gitlab.com/blog/2020/10/14/why-security-champions/)
+[![CloudSec](badges/cloudsec.png)](https://about.gitlab.com/blog/2020/10/14/why-security-champions/)
+[![Regulatorios](badges/regulatorios.png)](https://about.gitlab.com/blog/2020/10/14/why-security-champions/)
 
 ## Zup
 
@@ -38,5 +40,3 @@
 [![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
 [![Discourse posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
 [![Discourse likes](https://img.shields.io/discourse/likes?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
-<img src='badges/cloudsec.png' alt='badges/cloudsec.png' width='160px' />
-<img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' />
