@@ -1,4 +1,4 @@
-## Afonso
+## Afonso Filho
 
 <a href="https://owasp.org/www-project-security-culture/stable/4-Security_Champions/">
   <img src="badges/secure_development.png" alt="Secure Development" width="160px" />
@@ -30,11 +30,3 @@
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/ZupIT/charlescd?label=CharlesCD)](https://github.com/ZupIT/charlescd)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/ZupIT/horusec?label=Horusec)](https://github.com/ZupIT/horusec)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/ZupIT/ritchie-cli?label=Ritchie+CLI)](https://github.com/ZupIT/ritchie-cli)
-
-### Open Source
-
-[![Discourse status](https://img.shields.io/discourse/status?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
-[![Discourse users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
-[![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
-[![Discourse posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
-[![Discourse likes](https://img.shields.io/discourse/likes?server=https%3A%2F%2Fforum.zup.com.br&label=Zup+Open+Source)](https://forum.zup.com.br/)
